@@ -1,0 +1,73 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://i.pinimg.com/736x/53/24/4b/53244bf16cfde5be4d0bae00e74e7d79.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.titre  {
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    position: relative;
+    text-align: center;
+}
+
+.jaicomprislink {
+    background-color: rgb(202, 87, 20);
+    border: none;
+    color: rgb(44, 202, 20);
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    padding: 1rem;
+    text-align: center;
+    display: block;
+    font-size: 1rem;
+    border-radius: 3rem;
+    height: 17px;
+    width: 100px;
+    position: absolute;
+    top: 200px;
+    left: 20px;
+}
+
+.linktoytbpage {
+    background-color: rgb(202, 87, 20);
+    border: none;
+    color: rgb(44, 202, 20);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 1rem;
+    text-align: center;
+    display: block;
+    font-size: 1rem;
+    border-radius: 3rem;
+    height: 17px;
+    width: 400px;
+    position: absolute;
+    top:  200px;
+    left: 170px;
+}
+
+.entlink {
+    background-color: rgb(202, 87, 20);
+    border: none;
+    color: rgb(44, 42, 35);
+    text-decoration: none;
+    padding: 1rem;
+    text-align: center;
+    display: block;
+    font-size: 1rem;
+    border-radius: 2rem;
+    height: 17px;
+    width: 80px;
+}
